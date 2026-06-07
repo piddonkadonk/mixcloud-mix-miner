@@ -1,0 +1,17 @@
+{
+  "name": "mix-machine",
+  "owner": {
+    "name": "Jake Schneider"
+  },
+  "metadata": {
+    "description": "The Continuous Mix Machine - a Mixcloud discovery concierge for long, no-talk DJ mixes.",
+    "version": "1.2.0"
+  },
+  "plugins": [
+    {
+      "name": "mixcloud-mix-miner",
+      "source": "./",
+      "description": "Describe a vibe or name artists you like; get long continuous no-talk DJ mixes as playable links. Scores re-edits and contradictory-genre tags, mines the favorites network, builds Mixcloud playlists (Sonos-ready), and bulk-manages favorites."
+    }
+  ]
+}

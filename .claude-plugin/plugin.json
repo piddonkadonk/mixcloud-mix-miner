@@ -1,0 +1,18 @@
+{
+  "name": "mixcloud-mix-miner",
+  "version": "1.2.0",
+  "description": "A continuous-mix discovery machine for Mixcloud. Finds long no-talk DJ mixes like the artists you love, scores re-edits and contradictory-genre tag combos, screens out wedding/radio/EDM, mines the favorites network, and reports a tag map. Includes browser userscripts to build playlists, auto-follow artists, and bulk-unfavorite.",
+  "author": {
+    "name": "Jake Schneider"
+  },
+  "homepage": "https://github.com/piddonkadonk/mixcloud-mix-miner",
+  "license": "MIT",
+  "keywords": [
+    "mixcloud",
+    "dj",
+    "music",
+    "recommendations",
+    "open-format",
+    "discovery"
+  ]
+}
