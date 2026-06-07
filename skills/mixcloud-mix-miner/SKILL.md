@@ -48,6 +48,64 @@ config for the playlist builder.
   trap, dubstep, glitch hop, K-pop, chillout, easy listening.
 - The API can't hear a mix, so "no talk" is inferred from tags/titles. Spot-check minute one.
 
+## Artist pre-screening (run before featuring or recommending any artist)
+
+Before showcasing or recommending any artist, run all four checks. If an artist is on the
+trusted whitelist below, skip to the whitelist rule - no other checks needed.
+
+### 1. Tag screening
+Pull the artist's recent uploads via `GET /{user}/cloudcasts/?limit=20` and scan the
+`tags[]` array on each mix. Flag the artist as a likely show host if more than 2 of their
+last 10 uploads carry any of these tags:
+
+  radio show, podcast, interview, radio, talk
+
+Flagged artists need a web research check before featuring.
+
+### 2. Title pattern matching
+Scan the `name` field on recent uploads. Flag if any of these patterns appear in a title:
+
+  show, episode, radio, podcast, interview, with guest, ft., this week
+
+Two or more flagged titles across recent uploads means the artist needs closer review.
+A single flagged title is a yellow flag - continue to step 3 and web research before deciding.
+
+### 3. Description scan
+Check the description / subtitle field on recent uploads. Flag any of these phrases:
+
+  this week, joining me, my guest, coming up
+
+A flagged description combined with a flagged title is enough to hold off featuring the
+artist until web research confirms their format.
+
+### 4. Web research step
+Before adding any new artist to a showcase or recommendation list, run a web search for
+`"{artist name}" mixcloud` or `"{artist name}" DJ mix`. Check whether results describe them
+as a mix series, a radio show, or a podcast. If the top results call it a show or podcast
+with guests, treat the artist as a show host, not a mix DJ, and do not feature them.
+
+Do NOT rely on upload pattern analysis or duration outlier checks - those signals are too
+unreliable on Mixcloud to use as screening criteria.
+
+### Trusted whitelist
+The following artists have been manually verified as music-forward, no-chat DJs. They skip
+all four checks above:
+
+- swedishshef
+- djlittlefever
+- MrLob
+- djmaars
+- TomShowtime
+
+Add to the whitelist only after personal verification by the user. Never auto-populate
+it from engine recommendations.
+
+### User input required - mandatory rule
+Never auto-select or auto-feature artists as showcase examples without asking the user
+first. The skill may surface candidates and describe what it found, but the user decides
+who gets featured. Always ask before committing any artist to a showcase list, README,
+or recommendation output.
+
 ## Building playlists (the fast way)
 Mixcloud has no public write API and its on-page "Add to playlist" menu can't be scripted
 reliably. BUT the site's internal GraphQL endpoint (`https://app.mixcloud.com/graphql`)
