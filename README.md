@@ -35,19 +35,19 @@ A quick taste of the range, all long-form and music-forward:
 
 <table>
   <tr>
-    <td align="center" width="20%"><a href="https://www.mixcloud.com/paulofutura/"><img src="https://thumbnailer.mixcloud.com/unsafe/300x300/profile/7/3/f/6/7ca6-f08a-4d37-be11-840a6f228aa3" width="120"><br>Paulo Futura</a></td>
-    <td align="center" width="20%"><a href="https://www.mixcloud.com/djmatman/"><img src="https://thumbnailer.mixcloud.com/unsafe/300x300/profile/c/3/5/f/583e-0cbc-4813-b3f1-05ba47b60733.jpg" width="120"><br>DJ Matman</a></td>
-    <td align="center" width="20%"><a href="https://www.mixcloud.com/dj-gehoervoyeur/"><img src="https://thumbnailer.mixcloud.com/unsafe/300x300/profile/f/3/f/2/1a29-1148-4099-a3f3-dda89f806594.png" width="120"><br>Gehörvoyeur</a></td>
-    <td align="center" width="20%"><a href="https://www.mixcloud.com/theheatwave/"><img src="https://thumbnailer.mixcloud.com/unsafe/300x300/profile/8/f/8/2/9918-b43c-423a-8955-281d2243eaab" width="120"><br>The Heatwave</a></td>
-    <td align="center" width="20%"><a href="https://www.mixcloud.com/cosmobaker/"><img src="https://thumbnailer.mixcloud.com/unsafe/300x300/profile/e/d/b/4/ec87-376b-4de6-a333-34cba4f67c9b" width="120"><br>Cosmo Baker</a></td>
+    <td align="center" width="20%"><a href="https://www.mixcloud.com/swedishshef/"><img src="https://thumbnailer.mixcloud.com/unsafe/300x300/profile/9/a/b/e/2272-e465-4c42-aaac-7c7d5664e722" width="120"><br>Swedishshef</a></td>
+    <td align="center" width="20%"><a href="https://www.mixcloud.com/djlittlefever/"><img src="https://thumbnailer.mixcloud.com/unsafe/300x300/profile/3/7/a/2/a181-d68a-4155-b297-ed960fadc6fb" width="120"><br>DJ Little Fever</a></td>
+    <td align="center" width="20%"><a href="https://www.mixcloud.com/MrLob/"><img src="https://thumbnailer.mixcloud.com/unsafe/300x300/profile/4/6/1/0/2ab9-8036-4bb8-9c98-7b5dc41df029" width="120"><br>Dj Mr Lob</a></td>
+    <td align="center" width="20%"><a href="https://www.mixcloud.com/djmaars/"><img src="https://thumbnailer.mixcloud.com/unsafe/300x300/profile/e/7/2/0/901f-48db-4eef-8a96-8853040550cf" width="120"><br>DJ MAARS</a></td>
+    <td align="center" width="20%"><a href="https://www.mixcloud.com/TomShowtime/"><img src="https://thumbnailer.mixcloud.com/unsafe/300x300/profile/f/3/d/1/a15a-431e-4438-9333-80786b9546b3.jpg" width="120"><br>Tom Showtime</a></td>
   </tr>
 </table>
 
-- [Paulo Futura](https://www.mixcloud.com/paulofutura/) - afro-funk, samba, soul and global grooves stitched into 3 to 9 hour marathons. Pure flow-state fuel.
-- [DJ Matman](https://www.mixcloud.com/djmatman/) - re-edits and 90s R&B remixes, 7-inch funk and hip hop. Even posts "no chat" versions.
-- [Gehörvoyeur](https://www.mixcloud.com/dj-gehoervoyeur/) - German "Bar Mucke" eclectic: afro and Latin house, funk, and techno edits that hang together.
-- [The Heatwave](https://www.mixcloud.com/theheatwave/) - reggae, dancehall, bashment, soca and afrobeats. Windows-down, friends-over energy.
-- [Cosmo Baker](https://www.mixcloud.com/cosmobaker/) - disco, funk, hip hop and 70s R&B from a true open-format party legend.
+- [Swedishshef](https://www.mixcloud.com/swedishshef/) - hip hop, soul, afro/deep/funky house, DnB, jungle and reggae all in one session. Long runs, no filler.
+- [DJ Little Fever](https://www.mixcloud.com/djlittlefever/) - Ottawa vet, 16 years deep, chart hits to classic throwbacks. Red Bull Thre3style alum.
+- [Dj Mr Lob](https://www.mixcloud.com/MrLob/) - 25 years in Melbourne: funk, soul, jazz, hip hop, reggae, afrobeat, Latin, house. Vinyl-focused, ranked #5 worldwide in funk-soul-jazz 2017.
+- [DJ MAARS](https://www.mixcloud.com/djmaars/) - reggae, bass, jungle, hip hop, dub and mashups. Boomtown festival regular, co-founder of Easy Now Recordings.
+- [Tom Showtime](https://www.mixcloud.com/TomShowtime/) - 45-format obsessive, be-bop to breakbeat, afrobeat and tropical funk-soul-jazz mashups. Easy Now Recordings co-founder with DJ MAARS.
 
 ## Quick start (the recommender)
 
